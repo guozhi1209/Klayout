@@ -1,0 +1,7 @@
+ctrl+~打开终端terminal
+git clone+github网址（ git clone https://github.com/bing2309708871/Klayout.git
+
+fitten：学习助手：https://www.runoob.com/go/fitten-code-go.html
+帮助分析代码的含义
+https://www.runoob.com/go/fitten-code-go.html
+go ai 编程助手，选中后问代码含义、输入要求生成代码
